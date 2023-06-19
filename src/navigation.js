@@ -24,7 +24,7 @@ const Navigation = () => {
                                 <Text style={{ marginLeft: 5, fontWeight: '500' }}>1</Text>
                             </Pressable>
                         ),    
-                    })} 
+                    })}
                 />
                 <Stack.Screen 
                     name="Products Details" 
